@@ -35,7 +35,7 @@
   * [Porfolio]()
   
   
-  * [Ruby Projects](#)
+* [Ruby Projects](#)
   * [Tic Tac Toe Game](https://github.com/Temmarie/Tic-Tac-Toe)
   * [Enumerable Methods](https://github.com/OA7/Enumerables)
   * [Bubble-Sort](https://github.com/OA7/Bubble_Sort)
