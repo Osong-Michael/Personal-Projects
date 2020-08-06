@@ -58,7 +58,7 @@
 
 You can find my social media & other interesting links, here:
 
-* [LinkedIn](https://linkedin.com/osong-agberndifor)
+* [LinkedIn](https://www.linkedin.com/in/osong-agberndifor/)
 * [Twitter](https://twitter.com/Osong17)
 * [GitHub](https://github.com/OA7)
 * [GitLab](https://gitlab.com/Osong)
