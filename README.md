@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/OA7/Personal-Projects">
-    <img src="screenshot.jpg" alt="Logo">
+    <img src="screen.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Osong's Personal Projects</h3>
